@@ -26,4 +26,6 @@ return array(
     'dateAfter'     => "doit être une date après '%s'",
     'contains'      => "doit contenir %s",
     'boolean'       => "doit être un booléen",
+    "lengthMin"     => "doit être plus grand que %d caractères",
+    "lengthMax"     => "doit être plus petit que %d caractères",
 );
